@@ -8,6 +8,8 @@
 
         <div class="container">
         
+
+        <a class="btn btn-security" href="cadastro-cliente.php">Cliente</a>
         
         </div>
     
